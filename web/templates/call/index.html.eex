@@ -1,0 +1,8 @@
+<div>
+  <video id="localVideo" autoplay controls></video>
+  <video id="remoteVideo" autoplay controls></video>
+|>
+  <button id="connect">Connect</button>
+  <button id="call">Call</button>
+  <button id="hangup">Hangup</button>
+</div>
